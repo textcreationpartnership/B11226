@@ -1,0 +1,748 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Here beginneth a lytel treatyse the whiche speketh of the xv. tokens the whiche shullen bee shewed afore ye drefull daye of judgement And who that our lorde shalt after chenyng of euery body of his wordis, workis and thoughtes. And who oure lorde wyll shewe us other in tokens. of his pasion, to theym that been deyeth in dedely synne.</title>
+            <title>Art de bien vivre et de bien mourir. English.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1505</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 58 KB of XML-encoded text transcribed from 48 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B11226</idno>
+            <idno type="STC">STC 793.3</idno>
+            <idno type="STC">ESTC S103663</idno>
+            <idno type="EEBO-CITATION">99839411</idno>
+            <idno type="PROQUEST">99839411</idno>
+            <idno type="VID">3829</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B11226)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 3829)</note>
+            <note>Images scanned from microfilm: (Early English books, 1475-1640 ; 18:03, 1616:06)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Here beginneth a lytel treatyse the whiche speketh of the xv. tokens the whiche shullen bee shewed afore ye drefull daye of judgement And who that our lorde shalt after chenyng of euery body of his wordis, workis and thoughtes. And who oure lorde wyll shewe us other in tokens. of his pasion, to theym that been deyeth in dedely synne.</title>
+                  <title>Art de bien vivre et de bien mourir. English.</title>
+                  <author>Doesborch, Jan van, d. 1536.</author>
+               </titleStmt>
+               <extent>[40] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>By the fron ballaunce &amp;c. Emprinted by me Johan fro doesborch,</publisher>
+                  <pubPlace>[Anwerpe :</pubPlace>
+                  <date>[1505?]]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication and printer's name from colophon; publication date from STC.</note>
+                  <note>An English translation, by Jan van Doesborch, of: L'art de bien vivre et de bien mourir.</note>
+                  <note>Although this is said to be translated from the French, it is done from a Dutch translation.--STC.</note>
+                  <note>Formerly STC 24222.</note>
+                  <note>Identified as STC 24222 on UMI microfilm.</note>
+                  <note>Appears at reel 18, #3 (British Library copy) and at reel 1616, #6 (British Library copy).</note>
+                  <note>Signatures: a⁶ b⁴ c⁶(-c6) d⁶(-d6).</note>
+                  <note>Print faded.</note>
+                  <note>Reproduction of the originals in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Death --  Religious aspects --  Early works to 1800.</term>
+               <term>Judgment Day --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-08</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-08</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Sampled and proofread</change>
+         <change>
+            <date>2013-12</date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:3829:1"/>
+            <pb facs="tcp:3829:1"/>
+            <p>
+               <seg rend="decorInit">H</seg>Ere beginneth a lytel trea<g ref="char:EOLunhyphen"/>tyſe the whiche ſpeketh of the xv. tokens the whiche ſhullen bee ſhewed afore y<hi rend="sup">t</hi> drefull daye of Iugement. And who that oure lorde ſhalt aſke rekenyng of eue<g ref="char:EOLunhyphen"/>ry body of his wordis wor<g ref="char:EOLunhyphen"/>kis and thoughtes. And who oure lorde wyll ſhe<g ref="char:EOLhyphen"/>we vs other xv. tokens. of his paſſion to theym that been deyeth in dedely ſynne.</p>
+            <p>
+               <figure>
+                  <figDesc>depiction of two male figures and one female figure standing apart from each other, and two other male figures emerging from the ground</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="frontispiece">
+            <pb facs="tcp:3829:2"/>
+            <p>
+               <figure>
+                  <figDesc>depiction of a male figure or monk seated in a scriptorium</figDesc>
+               </figure>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="preface">
+            <pb facs="tcp:3829:2"/>
+            <p>
+               <seg rend="decorInit">I</seg>N this begynnyng ſo wyl I writte of the xv. Tokens they whiche ſhullen be ſhewed afo<g ref="char:EOLunhyphen"/>re the drefull daye off dome of our lorde Ihu<g ref="char:cmbAbbrStroke">̄</g> xpe<g ref="char:cmbAbbrStroke">̄</g>. and there ſhal we ſhewe oure ſelf Ionge and olde &amp;c.</p>
+            <p>¶ And our lorde wyll that there ſhal be ſhe<g ref="char:EOLhyphen"/>wed, iiij. tokens after doctours ſayng. For oure lorde is ſo mercy<g ref="char:EOLunhyphen"/>ful that hy wyl not puniſſhe vs but hy wyl ſhewe ſomme tokes afore. And that we maye beſory off our ſynnes and do penau<g ref="char:cmbAbbrStroke">̄</g>ce. And after thiſe forſai<g ref="char:EOLunhyphen"/>de iiij. tokens ſhullen yet bee xv. other tokens bee ſhewed. Whiche Iheronimus had fonden in the rinſkens there Cronicle ther Iewes. Of whiche xv. tokens forſayde ſhullen be declared be ordinau<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>ce here after. And y<hi rend="sup">t</hi> firſte toke<g ref="char:cmbAbbrStroke">̄</g> of y<hi rend="sup">e</hi> iiij. ſhalbe that y<hi rend="sup">e</hi> myght of Sathan thorugh y<hi rend="sup">e</hi> paſſie of our lorde was made laſſer. and was bounden. &amp; ſhalbe on<g ref="char:EOLhyphen"/>bonde<g ref="char:cmbAbbrStroke">̄</g>. All be it y<hi rend="sup">t</hi> he by y<hi rend="sup">e</hi> myght of y<hi rend="sup">e</hi> paſſie be bon<g ref="char:EOLhyphen"/>de<g ref="char:cmbAbbrStroke">̄</g>. &amp; may not do ſo moche harme to y<hi rend="sup">e</hi> me<g ref="char:cmbAbbrStroke">̄</g>ſhen as hy was wonte to do. But y<hi rend="sup">e</hi> deuyl is bonde<g ref="char:cmbAbbrStroke">̄</g> at cer<g ref="char:EOLhyphen"/>te<g ref="char:cmbAbbrStroke">̄</g> tymes. &amp; hi ſhalbe onbonde<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">t</hi> hi maye do y<hi rend="sup">e</hi> mo<g ref="char:EOLunhyphen"/>re harme to y<hi rend="sup">e</hi> people wyth temptacien and tribu<g ref="char:EOLunhyphen"/>lacien for to aſſaye theym tho that bee choſen.</p>
+            <pb facs="tcp:3829:3"/>
+            <p>But in the laſt tyme of the worlde ſhulle<g ref="char:cmbAbbrStroke">̄</g> the goo<g ref="char:EOLhyphen"/>de bee very goode and the euyll ſhullen bee very badde. Lyke the holy writters ſhewen in the laſte chaptre of apocalioſis. ¶ Tempus prope eſt qui nocet noceat ad huc et qui in ſordibus eſt ſordeſcat ad huc. et iuſtus iuſtificetur. ad huc et qui ſauctus eſt ſanctificetur. ad huc.</p>
+            <p>THat ſeconde token of the foure. ſhal be as lo<g ref="char:EOLunhyphen"/>ue ſhalbe loſte and not more be vſed. Lyke<g ref="char:EOLhyphen"/>wyſe as the me<g ref="char:cmbAbbrStroke">̄</g>ſhen warend olde and the nature waxed colde in hem. whiche the philoſophe called it the lytil worlde. Lykewyſe is it of the grete worl<g ref="char:EOLunhyphen"/>de. Who ſhe more cometh to the eynde who more the loue waxed colde in herſelf. But y<hi rend="sup">e</hi> hotte of a body is goſtly of lyuing there gretter world. And ſhal alle hole fayle for it goth ſore to y<hi rend="sup">e</hi> eynde of the worlde. As apoſtolus ad hebreos. Qui antiq<g ref="char:cmbAbbrStroke">̄</g>tur &amp; ſe neſcit prope i<g ref="char:cmbAbbrStroke">̄</g>teritu<g ref="char:cmbAbbrStroke">̄</g> eſt. And a man maye nowe knowe who y<hi rend="sup">t</hi> god is ſerued without deuocie. And how hy is blaſphemyed. and by hem ſwering &amp; alſo pulle hym all a ſonder in pices. And ye maye wel knowe y<hi rend="sup">t</hi> y<hi rend="sup">e</hi> loue is al moſte al done &amp; is waxen colde and dreyed awaye. but ſom<g ref="char:cmbAbbrStroke">̄</g>e bee naked and praye hertely but they fynde noo helpe. &amp; they y<hi rend="sup">t</hi> be hongery deye for honger &amp; haue none ſocour. The gate of mercy is ſhitte y<hi rend="sup">e</hi> fonteyne of y<hi rend="sup">e</hi> co<g ref="char:cmbAbbrStroke">̄</g>paſ<g ref="char:EOLhyphen"/>ſie hath ſhitte her condutes. And through fayled amonge his frendes. and ſhe ſhal not bee fonden afore god ſhal gyue ſentence vpon theym y<hi rend="sup">t</hi> haue honred charite and pacie<g ref="char:cmbAbbrStroke">̄</g>ce out of this worlde.</p>
+            <pb facs="tcp:3829:3" rendition="simple:additions"/>
+            <p>That thyrde toke<g ref="char:cmbAbbrStroke">̄</g> ſhalbe as all maner of euil and ſynnes ſhalbe i<g ref="char:cmbAbbrStroke">̄</g> this worlde &amp; the fere of god be put done / and haue none thinkyng on hym. And wha<g ref="char:cmbAbbrStroke">̄</g> faythfull and pacie<g ref="char:cmbAbbrStroke">̄</g>ce ſhal not beſette be but alma<g ref="char:EOLunhyphen"/>ner of eueyll ſhalbe vſed and whan y<hi rend="sup">e</hi> me<g ref="char:cmbAbbrStroke">̄</g>ſche<g ref="char:cmbAbbrStroke">̄</g> ſhul<g ref="char:EOLunhyphen"/>len loue<g ref="char:cmbAbbrStroke">̄</g> w<hi rend="sup">t</hi> a ſecretely loue &amp; care of none man but for her owne ꝓfyt And alſo we ſhal be a fore y<hi rend="sup">e</hi> ey<g ref="char:cmbAbbrStroke">̄</g>de of y<hi rend="sup">e</hi> worlde be prowde &amp; hy ſhal make moche of he<g ref="char:cmbAbbrStroke">̄</g> ſelf &amp; ſhall blaſphemeren y<hi rend="sup">e</hi> name of our lorde and they ſhullen not care of there fader or moder and than they ſhullen loue fleſly natur more than god As the apoſtel in the .ij. epiſle ad thy moteum</p>
+            <p>Therfor latte euery body reme<g ref="char:cmbAbbrStroke">̄</g>bre in he<g ref="char:cmbAbbrStroke">̄</g> ſelf what people nowe a daye be lyuinge in this worlde and loke wel yf this aforeſayde thinges not be nowe a dayes ſhewed &amp; done and ſet be none ſy<g ref="char:cmbAbbrStroke">̄</g>ne. For it is not well poſſible that ony body myght writte the grete ſyne<g ref="char:cmbAbbrStroke">̄</g>s the noweadayes be done praye to god that hy wyll torne hys people that y<hi rend="sup">e</hi> maye do pe<g ref="char:EOLhyphen"/>nau<g ref="char:cmbAbbrStroke">̄</g>ce afore there deth</p>
+            <p>That for the toke<g ref="char:cmbAbbrStroke">̄</g> that ſhall before the eynde of the worlde &amp; fore the other. xv. tokens &amp; a fore that gre<g ref="char:EOLunhyphen"/>te ordil a fore the daye of dome and tha<g ref="char:cmbAbbrStroke">̄</g> ſhal ther be grete peruerten and warre &amp; there ſhal be warre i<g ref="char:cmbAbbrStroke">̄</g> many dyuers la<g ref="char:cmbAbbrStroke">̄</g>des of the worlde and alſo amo<g ref="char:cmbAbbrStroke">̄</g>ge al creatours i<g ref="char:cmbAbbrStroke">̄</g> this world lyui<g ref="char:cmbAbbrStroke">̄</g>g For as matheꝭ ſay<g ref="char:EOLhyphen"/>de in. xiiij. chapitre Fyghtyng and warres ſhalbe amonge vs and alſo one body ſhal aryſe aye<g ref="char:cmbAbbrStroke">̄</g>ſt tho ther and alſo one kynge ayenſt on other and alſo troyſon ſhalbe a moge townes all haue they ma<g ref="char:EOLunhyphen"/>de
+<pb facs="tcp:3829:4"/> pays &amp; pays ſhalbe oute the world &amp; layed done and alſo y<hi rend="sup">e</hi> pri<g ref="char:cmbAbbrStroke">̄</g>ſhe aye<g ref="char:cmbAbbrStroke">̄</g>ſt his come<g ref="char:cmbAbbrStroke">̄</g> &amp; his come<g ref="char:cmbAbbrStroke">̄</g> aye<g ref="char:cmbAbbrStroke">̄</g>ſt hem. And alſo ther ſhalbe none cloſter of monkes nor of no<g ref="char:cmbAbbrStroke">̄</g>nes it ſhalbe full of peruertes or contrary one that other And than ſhal it be as / Iheremias writted i<g ref="char:cmbAbbrStroke">̄</g> his x. chaptre Vnuſquiſ<expan>
+                  <am>
+                     <g ref="char:abque"/>
+                  </am>
+                  <ex>que</ex>
+               </expan> ſe a ſuo ꝓximo cuſtodiat That is to ſaye Euery man kepe hem of his neygbour or frinde &amp; troſte not his broder for one ſhal ſhewe an other a fayre face but it herte of hym is fulle fals &amp; alſo one broder ſhal mocke that other and hy ſhal laye ſnares &amp; gynes for he<g ref="char:cmbAbbrStroke">̄</g> to be<g ref="char:EOLunhyphen"/>gyle yf he maye And than is it fulfylt like. Meſſi<g ref="char:EOLunhyphen"/>as the prophete ſayde Kepe you of beware you of your owne wyff the whiche ſleped i<g ref="char:cmbAbbrStroke">̄</g> your armes for ſhe ſhall begyle her owne huſbou<g ref="char:cmbAbbrStroke">̄</g>de and alſo y<hi rend="sup">e</hi> childe ſhall begyle the fader &amp; the fader the childe and the doughter the moder &amp; y<hi rend="sup">e</hi> moder y<hi rend="sup">e</hi> dought<g ref="char:cmbAbbrStroke">̄</g> and alſo one broder ſhal deliuer that other to deth &amp; y<hi rend="sup">e</hi> fader y<hi rend="sup">e</hi> ſone &amp; y<hi rend="sup">e</hi> children the fader. And whan al thiſe thi<g ref="char:cmbAbbrStroke">̄</g>ges &amp; ꝑuerte<g ref="char:cmbAbbrStroke">̄</g> ſhalbe though out of all y<hi rend="sup">e</hi> worlde than ſhal it be an token of the laſte termyn or eynde of this worlde. Other peruerten ſhullen be in the firmament But commu<g ref="char:cmbAbbrStroke">̄</g>ly it ſhalbe a dy<g ref="char:EOLhyphen"/>re tyme not allone i<g ref="char:cmbAbbrStroke">̄</g> one prouince or kyngdom but thorugh out of al y<hi rend="sup">e</hi> world. but it ſhalbe y<hi rend="sup">t</hi> y<hi rend="sup">e</hi> erth ſhal bere none fruyce to oure behouff or nede to lyue w<hi rend="sup">t</hi> all. And it ſhalbe alſo grete erth beui<g ref="char:cmbAbbrStroke">̄</g>ge be ayenſt nature that ther ſhulle<g ref="char:cmbAbbrStroke">̄</g> falle<g ref="char:cmbAbbrStroke">̄</g> done caſtels &amp; houſes And alſo in the zee &amp; Ryuers ſhulle<g ref="char:cmbAbbrStroke">̄</g> be more peruer<g ref="char:EOLunhyphen"/>ten than it hathe be a fore And the ayer ſhalbe full
+<pb facs="tcp:3829:4"/> of corrupcyen and venym therof ſhulle<g ref="char:cmbAbbrStroke">̄</g> come<g ref="char:cmbAbbrStroke">̄</g> grete peſtilencie<g ref="char:cmbAbbrStroke">̄</g> as well in the beſtes as in the me<g ref="char:cmbAbbrStroke">̄</g>ſhen therof they ſhullen deye. &amp; alſo do<g ref="char:cmbAbbrStroke">̄</g>neryng lightni<g ref="char:cmbAbbrStroke">̄</g>g tempeſtes and wyndes ſhullen be more perylos than the wonte the bee. &amp; the people ſhalbe ſore a<g ref="char:EOLhyphen"/>ferde And lykewys as ſanit hyeronimus hath fou<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLunhyphen"/>den xv. principael tokens they ſhulle<g ref="char:cmbAbbrStroke">̄</g> be a fore y<hi rend="sup">e</hi> dry ful daye of dome of our lord. Ihu<g ref="char:cmbAbbrStroke">̄</g> xp<g ref="char:cmbAbbrStroke">̄</g>i.</p>
+            <p>But wee knowe not yff theſe. xv. toke<g ref="char:cmbAbbrStroke">̄</g>s ſhullen be ſhewed one after on other. or yf ther ony other to<g ref="char:EOLhyphen"/>ken ſhalbe ſhewed betwene Therof ſayde ſaint hy<g ref="char:EOLhyphen"/>roniꝭ none certen nor none doctour but they put<g ref="char:EOLhyphen"/>te it in the wyl of oure lord but our lord maye ther wyth do hys wyll but hy is almyghty</p>
+         </div>
+         <div type="tokens__n15_Signs_of_Judgment_Day">
+            <p>¶ Here folowen the .xv. principael tokens the whi<g ref="char:EOLunhyphen"/>che ſhulen be ſhewed a fore the grete ordeel of Iu<g ref="char:EOLunhyphen"/>geme<g ref="char:cmbAbbrStroke">̄</g>t of oure lorde Ihu<g ref="char:cmbAbbrStroke">̄</g>
+            </p>
+            <div n="1" type="token">
+               <head>¶ Of that fyrſte toke<g ref="char:cmbAbbrStroke">̄</g>
+               </head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a pond of lake full of fish</figDesc>
+                  </figure>
+               </p>
+               <pb facs="tcp:3829:5"/>
+               <p>That fyrſte toke<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> wiche ſhal goo afore the co<g ref="char:EOLhyphen"/>men Iugement ſhalbe. that the ſee ſhal ary<g ref="char:EOLunhyphen"/>ſe. xi. cubitꝭ aboue all hylles there worlde. &amp; ſhal ſo ſtande in a token of a miracle w<hi rend="sup">t</hi>hout re<g ref="char:cmbAbbrStroke">̄</g>nyng ouer or goyng done and noo more in one place tha<g ref="char:cmbAbbrStroke">̄</g> in a<g ref="char:EOLunhyphen"/>nother &amp; ſhal ſtand ſtylle in hier one place for that thei wordes of pſalmi. ſholde be true. like he ſayde Mirabilis elatioe<g ref="char:cmbAbbrStroke">̄</g>s maris: Merueylous is y<hi rend="sup">e</hi> ſee of her opryſynge. and this ſhal god ſuffer. for the puniſſhe y<hi rend="sup">e</hi> whiche haue be prowde like the wyſe ma<g ref="char:cmbAbbrStroke">̄</g> ſayde in his ꝓuerbe. xiij. chaptre. Cor ſuperbi<g ref="char:EOLunhyphen"/>q<g ref="char:cmbAbbrStroke">̄</g>u<g ref="char:cmbAbbrStroke">̄</g> mare feruens ꝙ<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan>ſcit. The herte of pride is li<g ref="char:EOLunhyphen"/>ke the bernende zee the whiche none reſte en hath &amp; not others deſired than diſcord and warre. The whiche is comen of pride like Salomo<g ref="char:cmbAbbrStroke">̄</g> ſayde in his ꝓuerb. Int<g ref="char:cmbAbbrStroke">̄</g> ſuꝑbos ſꝑ iurgia ſunt Diſcorde &amp; twyſt is euer amonge the prowde folke. &amp; y<hi rend="sup">e</hi> prowde will alſo be in the heyeſt plaſe. and of a lityl thinge that whiche he hath done wyl he be worſhipped &amp; ho<g ref="char:EOLunhyphen"/>noured. &amp; neuer is he fulle of worſhip &amp; euer. wol<g ref="char:EOLunhyphen"/>de haue more. And god ſhal this done for to punyſ<g ref="char:EOLunhyphen"/>ſhe the proude the whithe them ſelf ſo enhau<g ref="char:cmbAbbrStroke">̄</g>cen &amp; wyl be beter than on other. &amp; hy ſhal take of they<g ref="char:cmbAbbrStroke">̄</g> there la<g ref="char:cmbAbbrStroke">̄</g>des &amp; goede. And alſo that they ſholde kno<g ref="char:EOLunhyphen"/>we there ſynnes. &amp; torne them to penau<g ref="char:cmbAbbrStroke">̄</g>ce. For our lord is ſo full of mercy that hy wil y<hi rend="sup">t</hi> none ſoule ſhol<g ref="char:EOLunhyphen"/>de be loſte. but hy gyueth vs knowelge &amp; token of trybulation and other pouerte y<hi rend="sup">t</hi> we ſholde kno<g ref="char:EOLhyphen"/>we hem and do penau<g ref="char:cmbAbbrStroke">̄</g>ce. like the apoſtel ſayde. No<g ref="char:cmbAbbrStroke">̄</g> dimittitur ꝑctm<g ref="char:cmbAbbrStroke">̄</g> niſi reſtituatur ablatu<g ref="char:cmbAbbrStroke">̄</g>: that is to
+<pb facs="tcp:3829:5"/> ſaye. The ſynnes en been not releſt nor forgyuen. but hy doo ſatiſfaction therfore</p>
+            </div>
+            <div n="2" type="token">
+               <head>¶ Of that ſeconde token:</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of the sea fallen below the level of the land</figDesc>
+                  </figure>
+               </p>
+               <p>THat ſeconde token that whiche ſhal goo afo<g ref="char:EOLunhyphen"/>re that comen Iugement ſhal bee. that the ſee ſhall good one in to the erth. lyke yf the ſonne it had dreyeth awaye. Lyke as the prophete Na<g ref="char:EOLhyphen"/>um ſayde in his fyrſt chaptre. ¶ Increpans ma<g ref="char:EOLhyphen"/>re et exſiccans illud. ¶ That is to ſaye. that the maker of alle the worlde ſhal the ſee done gone in to the dypte of the erth. lyke yf ſhe had bee dreyed oute. in a grete token of impoſſibilite or of in mer<g ref="char:EOLunhyphen"/>uelyoſite. And betokeut that the proude and leche<g ref="char:EOLunhyphen"/>rous folke ful of fleſly luſte and haue foloweth the reſynne. And haue laboured for to gete greate ri<g ref="char:EOLhyphen"/>cheſſes
+<pb facs="tcp:3829:6"/> and bildinges as houſes and other caſtels And haue not byldeth in heuen by our lord Iheſu and haue not byldeth goſtely for ther ſoule helthe And lyke as the haue putte done they pouer and haue not ſuccured them wyth there good as god hath ſente you in this worlde. But in y<hi rend="sup">e</hi> daye as y<hi rend="sup">e</hi> ſee ſhal hem hyde in to the erthe. Lyke as it is ſay<g ref="char:EOLunhyphen"/>de afore. and that ſhalbe done for ſuche folke as it is ſpoke<g ref="char:cmbAbbrStroke">̄</g> of afore. &amp; they ſhullen be aſhamed of the<g ref="char:EOLunhyphen"/>re ſynnes and ſhullen be dampned for ſuche ſyn<g ref="char:EOLhyphen"/>nes. Lyke ſaint lucas ſhewed in his xiiij. chaptre. ¶ Quiſe exalt at humiliabit<g ref="char:cmbAbbrStroke">̄</g>. And in his prouerbe xxix. Superbum ſequitur humilitas.</p>
+            </div>
+            <div n="3" type="token">
+               <head>¶ Of that thirde token.</head>
+               <figure>
+                  <figDesc>depiction of a merman and mermaid in the sea</figDesc>
+               </figure>
+               <p>THat thirde token ſhalbe. that al beeſtis and fiſſhes ſhullen monſtren. and in the ſee thei ſhullen come to gyder &amp; make a grete complaynt
+<pb facs="tcp:3829:6"/> and cryeng merueylouſly y<hi rend="sup">t</hi> it ſhalbe herde in he<g ref="char:EOLhyphen"/>uen and god ſhal this vnderſtonde allone Of this ſayde Iob in his xij. chaptre. ¶ Loquere terre et a<g ref="char:cmbAbbrStroke">̄</g>nunciabit tibi Et enarrabu<g ref="char:cmbAbbrStroke">̄</g>t piſces marꝭ. That is to ſaye. Speke to the erth and ſhe ſhal ſaye you all the ylle of the men ſhen. And the fyſſhes of the ſee ſhullen ſpeke to you of the euyll of the folke.</p>
+               <p>¶ God ſhal ſuffer this to one token to the people tho that haue lyued in y<hi rend="sup">t</hi> water of Ioye. and luſte<g ref="char:EOLhyphen"/>nes of the fleſhe. And they that haue<g ref="char:cmbAbbrStroke">̄</g> be mery in daunſyng pyping and in ſynging more than to y<hi rend="sup">e</hi> co<g ref="char:cmbAbbrStroke">̄</g>maundementis of oure blyſſed lorde Iheſu xpe<g ref="char:cmbAbbrStroke">̄</g> And their myrthe ſhalbe chaunged in grete heuy<g ref="char:EOLunhyphen"/>neſſe. Lyke vs lucas declared in his vi. chaptre. Ve vobis qui nu<g ref="char:cmbAbbrStroke">̄</g>c ridetꝭ quia lugetis: That is to ſaye. Sorowe ſhullen they haue they y<hi rend="sup">t</hi> lawhen. For ye ſhullen wepe in bitter teeres in that daye of Iugement. And they y<hi rend="sup">t</hi> hauen done penaunce in this worlde they moen wel be mery. As our lorde ſayde / Beati qui nunc fletis <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> ridebitꝭ / That is as moche to ſaye / ¶ Blyſſed be all tho y<hi rend="sup">t</hi> wepe in this worlde &amp; ſufferen / For they ſhulle<g ref="char:cmbAbbrStroke">̄</g> be mery in euer<g ref="char:EOLunhyphen"/>laſtinge glorie / And y<hi rend="sup">e</hi> fiſſhes and beeſtes of the ſee ſhulle<g ref="char:cmbAbbrStroke">̄</g> ſpeke of one maner or cryeng. and co<g ref="char:cmbAbbrStroke">̄</g>playn ouer y<hi rend="sup">e</hi> menſhen for thir grete ſynnes. for whiche ſynnes they ſuffere<g ref="char:cmbAbbrStroke">̄</g> grete peayn in the ſee.</p>
+            </div>
+            <div n="4" type="token">
+               <head>¶ Of that forthe token</head>
+               <pb facs="tcp:3829:7"/>
+               <figure>
+                  <figDesc>depiction of the sea on fire</figDesc>
+               </figure>
+               <p>That forthe token ſhal<g ref="char:EOLunhyphen"/>be that y<hi rend="sup">e</hi> ſee and all other waters and ryuers ſhul<g ref="char:EOLunhyphen"/>len bernen of the fyre that whiche ſhall Come oute of heue<g ref="char:cmbAbbrStroke">̄</g>. and ſhal punyſſhe theym that haue lyued lecherouſly in this worlde. after there luſtiſnes of the fleſhe. And haue lyued ayenſt the commaun<g ref="char:EOLunhyphen"/>dement of our lorde Ihu<g ref="char:cmbAbbrStroke">̄</g>. And ſuche folke ſhal ber<g ref="char:EOLhyphen"/>ne in the fyre made of brymſtone. Lyke ye fynde in Apocalipſi in his xxi. chaptre. ¶ Erit pars eo<expan>
+                     <am>
+                        <g ref="char:abrum"/>
+                     </am>
+                     <ex>rum</ex>
+                  </expan> in igne et ſulphure. And alſo for there pleſure the whiche they haue hadden in there lecherouſnes. ſhullen haue a ſonder peyne in euerlaſtyng fyre Lyke ye fynde in apocalipſi in his xviij. chaptre.</p>
+               <p>Quantum in delicijs fuit tantum date tormen<g ref="char:EOLhyphen"/>tum et luctum. Gyue theym payne after that they haue deſerued. the whiche haue lyued leche<g ref="char:EOLhyphen"/>rouſly and hauen kepte other mennes wyues. &amp; hauen lyued after there owne pleſure and fleſely luſte. Therfore ſhall this token bee ſhewed that the ſee and alle Ryuers ſhullen bernen as ye he<g ref="char:EOLhyphen"/>re maye ſee portred &amp;c.</p>
+            </div>
+            <div n="5" type="token">
+               <pb facs="tcp:3829:7"/>
+               <head>¶ Of that fyfte token.</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of seven forest birds, including an owl and a peacock, surrounded by falling blood droplets</figDesc>
+                  </figure>
+               </p>
+               <p>THat fyfte token ſhalbe. y<hi rend="sup">t</hi> alle herbes trees foreſtis and boſkaſyen ſhullen ſwete drop<g ref="char:EOLhyphen"/>pes lyke blode. As Sybilla writted. And Iohel in his ſecunde chaptre. Spekende in the perſon of god. ¶ In diebus illis dabo prodigia in celoet in terra ſanguine<g ref="char:cmbAbbrStroke">̄</g> et vaporem fumi. That is to ſaye ¶ In thoſe dayes ſhal I gyue tokens in heue<g ref="char:cmbAbbrStroke">̄</g> and in erth of ſmelling or ſauoring. Alſo in that ſame daye ſhullen come to gyder all byrthes. they ſhul<g ref="char:EOLhyphen"/>len cryen and wypen. And they ſhullen not bee wyllyng to ete nor to drinke in noo maner wyſe. ¶ Thyſe forſayde ſauour and bloet that the trees and herbes ſhullen ſwete. that ſhall god ſuffer for to punyſſhe the manquellers and mordenars in a peayne tho that haue kylled theym that neuer
+<pb facs="tcp:3829:8" rendition="simple:additions"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:3829:8" rendition="simple:additions"/>
+                  <gap reason="duplicate" resp="#OXF" extent="1 page">
+                     <desc>〈1 page duplicate〉</desc>
+                  </gap>
+                  <pb facs="tcp:3829:9" rendition="simple:additions"/> was gylty. Lyke as Seneu<g ref="char:cmbAbbrStroke">̄</g> ſayde in his iiij chapi<g ref="char:EOLunhyphen"/>tre. Spekyng in the perſon of god to Cayin. that blode of thy broder Abel cryed to me of the erth in<g ref="char:EOLunhyphen"/>to heuen. ¶ And that wepyng and cryeng of thiſe byrdes ſhullen not wylling bee to ete nor to dryn<g ref="char:EOLhyphen"/>ke. And ſhalbe done in a peayne and in a token of they dronkarts. tho that be euermore dronken in this worlde. and ſo lyue in moche etyng and dryn<g ref="char:EOLunhyphen"/>kyng. but they ſhullen be puniſſhed in helle of the honger ther deed. Lyke ſaliſtinus ſayde. ¶ Mors depaſſed eos. And ſo they ſhullen be punyſſhed w<hi rend="sup">t</hi> dyuers tormentes.</p>
+            </div>
+            <div n="6" type="token">
+               <head>¶ Of that vi. token</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of buildings falling down, including a church steeple and tower tops</figDesc>
+                  </figure>
+               </p>
+               <p>THat vi token ſhalke. y<hi rend="sup">t</hi> alle townes. Caſtels tours. houſes and other byldynges ſhullen falle downe. Lyke ſaint Lucas &amp; Matheꝭ ſayde<g ref="char:cmbAbbrStroke">̄</g> in xxiiij. chaptre. ¶ No<g ref="char:cmbAbbrStroke">̄</g> relinquet<g ref="char:cmbAbbrStroke">̄</g> lapis ſuꝑ lapidem
+<pb facs="tcp:3829:9"/> qui non deſtruatur. That is to ſaye. ¶ There ſhal not one ſtone abeyde by that other. And that ſhal god ſuffer for they in that haue laboured for to ma<g ref="char:EOLunhyphen"/>ke grete caſtels and fayr houſes for theyr pleaſur Than to make one fondacien or to bylde in y<hi rend="sup">e</hi> wor<g ref="char:EOLhyphen"/>ſhip of oure lorde. for to fynde a houſe in heuen Ly<g ref="char:EOLunhyphen"/>ke ſaint Iohan ſayde in his xxiiij. chaptre. ¶ In domo patris mei manſiones multe ſunt ¶ That ſayde oure lorde In my faders houſe bee many wonyng places. For they ſoules ſhulle<g ref="char:cmbAbbrStroke">̄</g> ha<g ref="char:EOLhyphen"/>ue y<hi rend="sup">t</hi> y<hi rend="sup">e</hi> deſerued for one ſhal haue more tha<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> oder Therfor ther bee many wonyng places thereof ſayde Yſayas. ¶ Ve qui coniungitis domum ad domum et agrum agro copulatis. O wee ye ry<g ref="char:EOLhyphen"/>che ye make houſes by houſes wyth begylynge &amp; make grete your lande and fyldes. and one acker by that other the whiche ye haue taken of the po<g ref="char:EOLhyphen"/>wer folke knowelyng by force or ſtronge hande: And they that haue noo myght ayenſt you. O ye riche loke on your worldely houſes the whiche ye haue byldeth wyth grete labour. And wylt not ones ſaye to your owne ſelf. O good lorde hadde I made one houſe in heuen for my ſoule helt wyth ſo greate labour as I haue done in erthe I hadde done wyſely for my ſoule &amp;c.</p>
+            </div>
+            <div n="7" type="token">
+               <pb facs="tcp:3829:10" rendition="simple:additions"/>
+               <head>Of that vij. token.</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of stones</figDesc>
+                  </figure>
+               </p>
+               <p>That vij. toke ſhalbe y<hi rend="sup">t</hi> one ſtone ſhal bete that other and ſhullen fyghte in them ſelf &amp; they ſhullen ſpringe aſonder. and ſo fighting thei ſhullen gyue and maken a grete noyſe of cryeng And that ſhal noo man vnderſtande but god allo<g ref="char:EOLunhyphen"/>ne. Lyke it was done as our lorde was Crucified. As matheus ſayd i<g ref="char:cmbAbbrStroke">̄</g> his xxvij. chaptre. Petre ſciſſe ſu<g ref="char:cmbAbbrStroke">̄</g>t. And y<hi rend="sup">t</hi> ſhalbe done for to fere the<g ref="char:cmbAbbrStroke">̄</g> tho y<hi rend="sup">t</hi> ben har<g ref="char:EOLunhyphen"/>der than ſtones. for they haue noo feere of our lor<g ref="char:EOLunhyphen"/>de. &amp; they maye not be made tendre for no prechi<g ref="char:cmbAbbrStroke">̄</g>g of y<hi rend="sup">e</hi> peyne of helle. nor of his Iugement nor of his paſſion. but they ſtones hauen hadd co<g ref="char:cmbAbbrStroke">̄</g>paſſion of our lorde in his paſſion in maner of ſpeking But they ſynner is ſo harde y<hi rend="sup">t</hi> they wyl not ſhryue the<g ref="char:cmbAbbrStroke">̄</g> nor do noo penaunce for their ſynnes But late vs
+<pb facs="tcp:3829:10"/> praye to our lord Ihu<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">t</hi> hy wyll make our hertes tendre y<hi rend="sup">t</hi> we maye beſory for our ſynnes.</p>
+            </div>
+            <div n="8" type="token">
+               <head>¶ Of that viij token.</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a female figure falling over, with cattle and a sheep nearby</figDesc>
+                  </figure>
+               </p>
+               <p>THat viij token ſhalbe. that ther ſhalbe a ge<g ref="char:EOLunhyphen"/>neral erth ſhakyng and contrary ther erth And ſhalbe ſhewed ouer all the worlde. ſo perilouſ that nor man nor wyf nor beeſte ſhal mowe ſtan<g ref="char:EOLhyphen"/>de vpright. but ſhullen fallen done the gronde. Li<g ref="char:EOLhyphen"/>ke it ſpeketh in apocaliꝓſi xvi. chatre. Et fcu<g ref="char:cmbAbbrStroke">̄</g>s e<g ref="char:cmbAbbrStroke">̄</g>ter<g ref="char:EOLunhyphen"/>remotꝭ magnus q<g ref="char:cmbAbbrStroke">̄</g>lis no<g ref="char:cmbAbbrStroke">̄</g> fuit ex quo hoi<g ref="char:cmbAbbrStroke">̄</g>es ee<g ref="char:cmbAbbrStroke">̄</g> cepe<g ref="char:EOLhyphen"/>ru<g ref="char:cmbAbbrStroke">̄</g>t. That is to ſaye. Afore our lord ſhal come to Iu<g ref="char:EOLunhyphen"/>gement ſhalbe alſo greate an erthquauyng as e<g ref="char:EOLhyphen"/>uer hath ben. ſith our lorde y<hi rend="sup">e</hi> worlde made. &amp; this ſhal be done for to fere them tho y<hi rend="sup">t</hi> ben yet in erthe And ſhalbe a token y<hi rend="sup">t</hi> the erth ſhal bere noo more the ſynners. but ſhal them leue. &amp; our lord ſhal do ouer them Iuſticie, &amp; ſhal theym gyue they male<g ref="char:EOLhyphen"/>dictie
+<pb facs="tcp:3829:11" rendition="simple:additions"/> in the pytts of helle wyth Lucifer. And y<hi rend="sup">e</hi> peo<g ref="char:EOLunhyphen"/>ple &amp; ſynners ſhulle<g ref="char:cmbAbbrStroke">̄</g> ſeke places &amp; holes for them to hyde ther in. And there ſhalbe ſhewed the greate vnmerciful y<hi rend="sup">t</hi> our lorde hath to the ſy<g ref="char:cmbAbbrStroke">̄</g>ners For the y<hi rend="sup">t</hi> wolde not leue there ſy<g ref="char:cmbAbbrStroke">̄</g>nes for all they tokens y<hi rend="sup">t</hi> they myght ſee here afore.</p>
+            </div>
+            <div n="9" type="token">
+               <head>¶ Of that ix token.</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a plain studded with the tops of mountains</figDesc>
+                  </figure>
+               </p>
+               <p>THat ix token ſhalbe y<hi rend="sup">t</hi> all hilles and valeyes ſhulle<g ref="char:cmbAbbrStroke">̄</g> be plaen. &amp; this ſhal be as Yſay as in his xl chaptre ſhewed ¶ Oi<g ref="char:cmbAbbrStroke">̄</g>s vallis i<g ref="char:cmbAbbrStroke">̄</g>plebit<g ref="char:cmbAbbrStroke">̄</g>. et oi<g ref="char:cmbAbbrStroke">̄</g>s mo<g ref="char:cmbAbbrStroke">̄</g>s et collis hui<g ref="char:cmbAbbrStroke">̄</g>liabit<g ref="char:cmbAbbrStroke">̄</g>. y<hi rend="sup">t</hi> is to ſaye That all hylles ſhulle<g ref="char:cmbAbbrStroke">̄</g> be leyde done. &amp; y<hi rend="sup">t</hi> ſhal god ſhewe for to feere al princes tho y<hi rend="sup">t</hi> make moche of the<g ref="char:cmbAbbrStroke">̄</g> ſelf &amp; haue put done they pouer. for all kynges lordes &amp; pri<g ref="char:cmbAbbrStroke">̄</g>ces be<g ref="char:cmbAbbrStroke">̄</g> all like the pouer. For they be alle made of one ſub<g ref="char:EOLunhyphen"/>ſtans &amp; haue all had one fader. and god ſhal ſuche kinges &amp; lordes gyue wages like they haue deſer<g ref="char:EOLhyphen"/>ued.
+<pb facs="tcp:3829:11" rendition="simple:additions"/> Like matheꝭ ſayd i<g ref="char:cmbAbbrStroke">̄</g> his xvi. chaptre Filiꝭ hoi<g ref="char:cmbAbbrStroke">̄</g>o redda<g ref="char:cmbAbbrStroke">̄</g> vnicui<expan>
+                     <am>
+                        <g ref="char:abque"/>
+                     </am>
+                     <ex>que</ex>
+                  </expan> ſcd<g ref="char:dram">ʒ</g> oꝑa ſua. Wythout ony taken out as wel the mayſter as the ſeruau<g ref="char:cmbAbbrStroke">̄</g>t. Like pſal. ſayde. Cu<g ref="char:cmbAbbrStroke">̄</g> accepero te<g ref="char:cmbAbbrStroke">̄</g>pus ego iuſticias iudicabo. y<hi rend="sup">t</hi> is to ſaye. As I ſhal take the daye &amp; y<hi rend="sup">e</hi> houre ſhal I Iuge y<hi rend="sup">e</hi> goode &amp; the badde workes of y<hi rend="sup">e</hi> people. as wel the one as y<hi rend="sup">e</hi> other. of what ſtate or co<g ref="char:cmbAbbrStroke">̄</g>dycien y<hi rend="sup">t</hi> thy be</p>
+            </div>
+            <div n="10" type="token">
+               <head>¶ Of that x. token</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of two male figures and one female figure standing apart from each other, and two other male figures emerging from the ground</figDesc>
+                  </figure>
+               </p>
+               <p>That. x. toke<g ref="char:cmbAbbrStroke">̄</g> ſhalbe. y<hi rend="sup">t</hi> al me<g ref="char:cmbAbbrStroke">̄</g> &amp; wy<g ref="char:cmbAbbrStroke">̄</g>me<g ref="char:cmbAbbrStroke">̄</g> they y<hi rend="sup">t</hi> had hydde them in y<hi rend="sup">e</hi> erth ſhulle<g ref="char:cmbAbbrStroke">̄</g> come ayen out of ther holes like as madde folke. And ſhulle<g ref="char:cmbAbbrStroke">̄</g> ſo ſore bee a<g ref="char:EOLhyphen"/>ferde / y<hi rend="sup">t</hi> one ſhal not mowe ſpeke to that other And this ſhall god ſhewe in one token that whan god ſhall gyue Iugement ouer the good and badde. Shal hy no man excuſe. whiche Iugement them is ſhewed wyth many tokens yf they wolde nott torne theym fro their ſynnes and doo penaunce:
+<pb facs="tcp:3829:12" rendition="simple:additions"/> And god ſhal alſo ſhewe this token to the people y<hi rend="sup">t</hi> ſhal lyue than in erth. That Maria the moder of our lorde Ihu<g ref="char:cmbAbbrStroke">̄</g> aduocatrice to all ſynners that in y<hi rend="sup">e</hi> houre / of Iugement ſhal ſhe not co<g ref="char:cmbAbbrStroke">̄</g>ne helpe no ma<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>nor none ſaint of heue<g ref="char:cmbAbbrStroke">̄</g> but ther owne good dedes.</p>
+            </div>
+            <div n="11" type="token">
+               <head>¶ Of that xi. token.</head>
+               <p>
+                  <figure>
+                     <figDesc>depiction of an open tomb with skulls, bones, and two skeletons or corpses</figDesc>
+                  </figure>
+               </p>
+               <p>THat xi token ſhalbe. that all graues &amp; thom<g ref="char:EOLunhyphen"/>bes ſhullen ſtande open. fro the vpryſing of the ſonne and goyng done ayen. And alſo alle bo<g ref="char:EOLhyphen"/>nes of the bodyes the whiche that bee deth fro the begynning of the world to that ſame daye to. ſhul<g ref="char:EOLunhyphen"/>len aryſe by and by. ¶ Lyke Ezechiel ſayde in his xxxvij. chaptre. Erce ego aperia<g ref="char:cmbAbbrStroke">̄</g> tumulos veſtros This ſame toke<g ref="char:cmbAbbrStroke">̄</g> ſhal god ſhewe to one toke<g ref="char:cmbAbbrStroke">̄</g> to alle tho that hath bee hydde ſecretely Lyke ſynnes that haue nott bee confeſſyd nor ſhryuen therof.
+<pb facs="tcp:3829:12" rendition="simple:additions"/> And they that haue done ſinnes ſecretly and haue not ſhriuen them therof nor haue<g ref="char:cmbAbbrStroke">̄</g> done no penau<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ce. and all they ſhullen be dampned. Lyke euange<g ref="char:EOLunhyphen"/>liſta ſayde. Nihil oꝑtum ꝙ no<g ref="char:cmbAbbrStroke">̄</g> reueletur nec abſco<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLunhyphen"/>ditum quod ſciatur. That is to ſaye. None things ſo ſecretely kepte but oure lorde ſhall haue therof knowlege in the daye of Iugement. and no thing ſo vnbeknowen but it ſhalbe knowen in co<g ref="char:cmbAbbrStroke">̄</g>mun of euery man in tho dayes. &amp;c.</p>
+            </div>
+            <div n="12" type="token">
+               <head>¶ Of that xij. token.</head>
+               <figure>
+                  <figDesc>depiction of creatures staring up at the night sky, including a boar, ox, dog, cat, rabbit, horse, lion, and unicorn</figDesc>
+               </figure>
+               <p>THat xij token ſhalbe that ſterres ſhulle<g ref="char:cmbAbbrStroke">̄</g> fal<g ref="char:EOLunhyphen"/>len out of heuen. for al planetes the whiche y<hi rend="sup">t</hi> goo aboute wyth y<hi rend="sup">e</hi> cours of the elementis. and alſo they y<hi rend="sup">t</hi> ſtande ſtylle be called in latyn planete or ſtelle errancie. Shullen fallen and caſten oute grete cometes with longe tayles. lyke a burning ſpere. that whiche ſhal bee ſore fertfull on to ſee.
+<pb facs="tcp:3829:13" rendition="simple:additions"/> And ſhullen all beeſtes come to gyder and maki<g ref="char:cmbAbbrStroke">̄</g>g a grete noyſe wythout mete or drynke. Lyke ma<g ref="char:EOLhyphen"/>theus writted of the ſterres in his xiiij chaptre.</p>
+               <p>¶ Stelle cadent de celo et virtutes celorum moue<g ref="char:EOLhyphen"/>buntur. Of this maye ye vnderſtande that the peple ſhal ſee no more lyke yf they had be caſte out of heuen, Lyke ye maye vnderſtande of ſaint am<g ref="char:EOLunhyphen"/>broſius Iheronimus and beda. As the ſonne and mone and alle othe bryghtenes of heuen ſhullen chaunge ther brightnes into derkenes nott that they ſhullen leſe there bryghtnes. To vnderſtand as our lord ſhal come to Iuſtice than ſhalbe ſuche a brightnes that the ſonne and mone ſhullen leſe their brightnes. Here of ſayde the prophete Iohel in his iij. chaptre. ¶ Sol conuertetur in tenebras et luna inſanguinem antequam veniat dies dn<g ref="char:cmbAbbrStroke">̄</g>i magnus et horribilis. That is to ſaye. Afore oure lorde Ihu<g ref="char:cmbAbbrStroke">̄</g> ſhal come tho Iugement ſhal the ſonne leſe her bryghtnes. and the mone ſhal tourne her in to blode. Lyke in apocalipſt is ſhewed. ¶ Sol factus eſt niger quaſi factus cilicinus et luna fcta<g ref="char:cmbAbbrStroke">̄</g> eſt quaſi ſanguinis et ſtelle cadent ſuper terram. That is to ſaye. In tho dayes ſhalbe a meruelyos token. as that the ſonne ſhalbe like a ſacke caſte w<hi rend="sup">t</hi> eſſhes. and the mone ſhalbe redde like the blodde And this is to vnderſtande that alle creatures off heuen ſyeng the eynde of the worlde. Wherfor y<hi rend="sup">t</hi> they ware made to gyue bryghtenes in token off ſoroufulnes. Lyke whan the mayſter is deth tha<g ref="char:cmbAbbrStroke">̄</g> the ſeruaunt putt on hem blacke clothes in token
+<pb facs="tcp:3829:13"/> of mornyng. And not that the ſterres ſhullen falle<g ref="char:cmbAbbrStroke">̄</g> done to the erth. but they ſhullen abeyde aboue in the ayer and makyng a grete noyſe of lyghtning and they ſhullen not be waſted. but ſhullen abey<g ref="char:EOLhyphen"/>de in that loweſte parte of the ayer and the peple ſhal wene that they fallen to the erth. And verely as men ſayd y<hi rend="sup">e</hi> myght of heue<g ref="char:cmbAbbrStroke">̄</g> ys lyke angels goo<g ref="char:EOLunhyphen"/>ſtes and the workes of heuen ſhullen peruerten &amp; tremblem in the daye of Iugement. Not that thei haue feere of dampnacion. but the tremble for the reuerencie that they ſhullen done. but whan thei ſhullen ſeen they grete myght of our lorde comy<g ref="char:cmbAbbrStroke">̄</g>g to Iugement wyth alle his Empire and myght &amp; lokyng ſo ferthfully ayenſt they that be dampned and than the angels ſhullen humbli bowe them Lyke yf they ſholden ſuffer the euerlaſting payne And ye maye alſo vnderſtande of the peruerten of the angels and gooſtes that ſhe hem peruerten for to fulfylle the wyl of oure lorde: And this ſhall god ſuffer that the ſterres ſhullen fallen. for to fee<g ref="char:EOLhyphen"/>re theym tho that bee fallen fro their belyue. and for theym that haue not meyntened oure belyue and tho that haue kepte it a backe &amp;c.</p>
+            </div>
+            <div n="13" type="token">
+               <head>¶ Of that xiij. token:</head>
+               <pb facs="tcp:3829:14"/>
+               <p>
+                  <figure>
+                     <figDesc>depiction of a pile of recently dead bodies</figDesc>
+                  </figure>
+               </p>
+               <p>THat xiij. token ſhalbe. that all men wy<g ref="char:cmbAbbrStroke">̄</g> me<g ref="char:cmbAbbrStroke">̄</g> and children they than bee alyue op y<hi rend="sup">e</hi> worl<g ref="char:EOLunhyphen"/>de ſhulle<g ref="char:cmbAbbrStroke">̄</g> deye wythout ony remedy. And hy ſhall this done for that they ſhullen aryſe ayenſt y<hi rend="sup">e</hi> day of dome wyth them that haue ben dede in the be<g ref="char:EOLhyphen"/>gynning of the worlde to that daye to aforeſayde ¶ And certeynly this ſhal bee a pytuoſly worke y<hi rend="sup">t</hi> all people tho that ben alyue. goyng ſytting ſtan<g ref="char:EOLhyphen"/>ding liggyng etyng or drynking. ſhullen be hurt ſo ſhortly wyth the lancie of deth ſudenly. ¶ O ye wretched people ye wene to lyue euer, but thinke that ye ſhal deye. &amp; you knowe nor daye nor houre And alſo you thinke not on your ſynnes. ¶ O ye men and wymmen what ſhal ye do whan ye ha<g ref="char:EOLhyphen"/>ue none tyme for to amende your ſynnes.</p>
+            </div>
+            <div n="14" type="token">
+               <pb facs="tcp:3829:35" rendition="simple:additions"/>
+               <head>¶ Of that xiiij. token.</head>
+               <p>THat xiiij token ſhalbe. that heuen and erth and alle elementen ſhullen bernen and ſpe<g ref="char:EOLunhyphen"/>cially alle thinges that whiche is operthe. And y<hi rend="sup">e</hi> bodyes of men and wymmen ſhullen be burneth in to eſſhes. Lyke Geneſi ſayde in his iij. chaptre. ¶ Puluis es. et in puluerem reuerteris. And of y<hi rend="sup">e</hi> ſame reſolucien of heuen and the et the ſayde Ma<g ref="char:EOLunhyphen"/>theꝭ in his xiiij chaptre. Celuin et terra tranſibu<g ref="char:cmbAbbrStroke">̄</g>t And of this ſame fyre ſayde Pſalmiſta. ¶ Ignis ante ipſum precedet. That fyre ſhal goo afore that comun Iugement Whiche fyre ſhalbe very grete by the myght of oure lorde. Not allone that fyre i<g ref="char:cmbAbbrStroke">̄</g> hem ſelf but all fyres in erth and ſhulle<g ref="char:cmbAbbrStroke">̄</g> come abo<g ref="char:EOLhyphen"/>ue to gyder for to for burne alle the worlde. And y<hi rend="sup">e</hi> doctours ſaye that this fyre ſhal haue thre maner of myght. As the myght of the fyre of erth. for too take and to burne all to thinges that ye maye fyle Lyke trees herbes and in general all tho thinges that ben in erth. For that ſame fyre ſhal tourne in to eſſhes. As all bodyes of men and wy<g ref="char:cmbAbbrStroke">̄</g>men. And it ſhal haue the myght of the fyre of the elementis and ſhal purgyren the ayer and elementes. And this ſame fyre ſhal goo aboute alle the worlde and make clene all the elementes of the Infectie of the people. And this ſame fyre ſhal goo alſo hyghe as the Infectie is gone of the ſynful people. for to pur<g ref="char:EOLunhyphen"/>ge all that ſame. Lyke our lorde ſayde that heuen and erth ſhalbe burned and fergo. not that the be waſtable na y<hi rend="sup">e</hi> ſubſtancie. for the be Incorruptible
+<pb facs="tcp:3829:36"/> or waſtable. and that ſame fyre ſhal goo aboue all hylles xv. cubytes. lyke the dyluuye dydde for too purge that opperſte parte of the ayer. the whiche that the ſynful people hadde be ſmytted wyth the<g ref="char:EOLunhyphen"/>re grete ſynnes. And in this maner ſhal the heue<g ref="char:cmbAbbrStroke">̄</g> bee purget. But the thinges of heuen ſhullen not bee waſted in noo maner of wyſe. Lyke propheta ſayde. ¶ Ipi<g ref="char:cmbAbbrStroke">̄</g> ꝑibunt tu au<g ref="char:cmbAbbrStroke">̄</g>t permanes. That is to ſaye. That the heue<g ref="char:cmbAbbrStroke">̄</g> ſhal fergo after ſomme diſpo<g ref="char:EOLhyphen"/>ſicie and chaunge lyke it now is. And the ſhal not bee waſted to ſaye after ther corruptibilier ſubſta<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>cien. And than it ſhal not bee nedeful &amp;c.</p>
+            </div>
+            <div n="15" type="token">
+               <head>¶ Of that xv. token and of that laſte.</head>
+               <figure>
+                  <figDesc>depiction of naked male and female figures emerging from the ground and the sea</figDesc>
+               </figure>
+               <pb facs="tcp:3829:36" rendition="simple:additions"/>
+               <p>THat xv. token ſhalbe that heuen and erthe ſhalbe chaunged and made newe. Lyke it is ſayde aſore. And all people ſhullen aryſe too the Iugement. Lyke ſaint Thomas ſayde. That the elements ſhullen be made newe And the erth ſhalbe bryght. and that water like the criſtal. and the ayer lyke heuen. and that fyre lyke the bryght<g ref="char:EOLunhyphen"/>nes of heuen. and I ſhal ſee noo thynge in y<hi rend="sup">e</hi> ayer aboue. but ſhal ſtande ſtylle and remeue not. And certeynly this forſaide fyre ſhal burne all bodyes of the people yf they bee dede or alyue good or bad but there ſhalbe difference it ſhal gyue peyne to y<hi rend="sup">e</hi> badde. and none to the goode. But it fyndeth noo<g ref="char:EOLunhyphen"/>thinge there to purge. No more than it dydde to y<hi rend="sup">e</hi> thre children the whiche waren put in a forncyſe. As daniel ſayde in his iij. chaptre. ¶ And certeyn<g ref="char:EOLunhyphen"/>ly all this is not others than as god it wyl haue. &amp; no man knoweth it but god alone of this tookens afore ſayde. and yf they ſhullen bee ſhewed one af<g ref="char:EOLhyphen"/>ter an other. And yf there more than one ſhal bee vp one daye. but this ſame is vncerten &amp; vnkno<g ref="char:EOLhyphen"/>wen. And therfore it is poſſyble that that fyre ther purgacien ſhal come op that ſame houre as y<hi rend="sup">e</hi> pe<g ref="char:EOLhyphen"/>ple ſhullen bee ſlaen. and than they ſhullen be bur<g ref="char:EOLunhyphen"/>ned to eſſhes to pouder and duſt.</p>
+               <p>¶ And therfore ſhal men not ſaye for certeyn that they forſayde tokens ſhullen bee vpon. xv. dayes one after an other. ¶ Lyke Iheronimus hath fon<g ref="char:EOLunhyphen"/>den in the Hebrewſhe Cronicle. For hy hemſelfe is there of vncertaeyn.</p>
+               <pb facs="tcp:3829:37"/>
+               <p>But the moſte parte of thiſe forſayde tokens ma<g ref="char:EOLhyphen"/>ye ye wel belyue for the be geapprobiert with the holy goſpels. that the worlde ſhal burne and pur<g ref="char:EOLhyphen"/>ge the elementis. And alſo that the hooly bodyes ſhullen aryſe. And that ſame fyre ſhal goo aboute after the Iugement and ſhal take all corrupcien wyth hem and ſhal goo wyth a grete hette to hel<g ref="char:EOLhyphen"/>le. and ther wyth to punyſſhe the badde. And alle thoſe that of ſuttylnes is in this ſame fyre and off good workes ſhal abeyde aboue in euerlaſti<g ref="char:cmbAbbrStroke">̄</g>g glo<g ref="char:EOLunhyphen"/>rie. And this is knowen that this ſame fyre ſhall goo afore that dreful daye of Iugement.</p>
+               <trailer>¶ Here endeth the xv tokens
+<figure>
+                     <figDesc>depiction of two male figures throwing a third figure into a pit or well, while a male figure with crown and sceptre points</figDesc>
+                  </figure>
+               </trailer>
+            </div>
+         </div>
+         <div type="description_of_those_Judged">
+            <pb facs="tcp:3829:14" rendition="simple:additions"/>
+            <p>¶ And here foloweth who our lord ſhal <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> ſhal come to Iugement:</p>
+            <p>ALle criſte<g ref="char:cmbAbbrStroke">̄</g> peple be of very doute to knowe by the ſimbol of the belyue. That is oure Credo. lyke the ſymple peple ſaye. whiche euery body ought to knowe. or to haue penaunce the euerlaſtinge dampnacion of his ſoule. ¶ And oure lorde ſhal come at that ſame daye to Iuge y<hi rend="sup">e</hi> that be alyue and tho that be dede. and good and badde. In whiche Iugement hy ſhal gyue euery body after that they haue ſerued. And this ſhalbe done lyke it is ſayde afore. But as oure lorde ſhal come w<hi rend="sup">t</hi> grete myght in tyme of Iuſticie i<g ref="char:cmbAbbrStroke">̄</g> whiche tyme ſhalbe noon mercy. After that viſion of ſai<g ref="char:cmbAbbrStroke">̄</g>t Iohan in appocalipſi in his x. chaptre ſayde. One angel comyng oute of heuen. puttyng hys right fote op the ſee and his lyfter fote vpon the erth. &amp; makyng his othe by our lorde the whiche is alyue in heuen. That that ſame tyme ſholde be no more Gloſa. the tyme of mercy. But the tyme of Iuge<g ref="char:EOLhyphen"/>ment and ther Iuſticien. And ſayde that ther ſpa<g ref="char:EOLhyphen"/>ke to hem vij. donre claps. and there by ſhulle<g ref="char:cmbAbbrStroke">̄</g> we vnderſtande that ther ſhullen fallen vij. perylloſ<g ref="char:EOLhyphen"/>ſhe thinges. The whiche ſhullen fallen vpon they tho that bee dampned. ¶ And tho that bee ſauyd ſhullen haue vij myrthee. in that ſame daye of Iu<g ref="char:EOLunhyphen"/>gement. &amp; by y<hi rend="sup">t</hi> firſt donre clape ſhal ye vnderſtan<g ref="char:EOLunhyphen"/>de y<hi rend="sup">e</hi> aryſing of y<hi rend="sup">e</hi> ded bodyes men and wymmen
+<pb facs="tcp:3829:15"/> But after the purgacie of the fyre in erth. ſhal out lord be redy to come to Iugement. and his angels ſhullen blowe the trompettis making a grete noi<g ref="char:EOLunhyphen"/>ſe. and they ſhullen brynge to gyder all frindes of oure lorde. the whiche that haue be tourned in to eſſhes in all foure corners of the worlde. Lyke ma<g ref="char:EOLunhyphen"/>theus ſayde in his xxiiij. chaptre. ¶ Mittit ange<g ref="char:EOLhyphen"/>los ſuos cu<g ref="char:cmbAbbrStroke">̄</g> tuba. And this ſame blowyng ſhall be herde of good and badde and ſhullen aryſe vpon that ſame daye. As the apoſtle ſayde ad Corinthe<g ref="char:EOLhyphen"/>os. ¶ Oe<g ref="char:cmbAbbrStroke">̄</g>s quidem reſurgemus. And they trom<g ref="char:EOLhyphen"/>pettis ſhullen gyue a meruelyous noyſe. Wherof ſaint Iheronimus ſayde ¶ Siue dormio ſiue vigi<g ref="char:EOLunhyphen"/>lo &amp;c. That is to ſaye. Slepe I wake I ete I drinke I. or what that I do. euer my ſemeth that I here y<hi rend="sup">e</hi> laſte trompettis of that drefull Iugeme<g ref="char:cmbAbbrStroke">̄</g>t Sayng ſtand op ne deed and cometh to Iugement. Lyke one doctour ſayde op that booke of ſapiens. The noyſe of thyſe trompettis ſhullen gyue a fylynge ſowne the whiche ſhal co<g ref="char:cmbAbbrStroke">̄</g>maunde that co<g ref="char:cmbAbbrStroke">̄</g>maunde<g ref="char:EOLunhyphen"/>ment of our lorde ihu<g ref="char:cmbAbbrStroke">̄</g> xpi<g ref="char:cmbAbbrStroke">̄</g>. by whiche commaunde<g ref="char:EOLunhyphen"/>ment all deed bodyes ſhullen aryſe. As Chriſoſto<g ref="char:EOLunhyphen"/>mus ſayd. That is one meruelyous ſowne of the crompettis that it makith the elementis ſubgette and alſo parted the ſtones. And doth open y<hi rend="sup">e</hi> yate of helle. and brecte the yate of Aren and the gate of helle made of yron. and brecte the ba<g ref="char:cmbAbbrStroke">̄</g>des of the ded people. And ſhal gyue euery body his ſoule ayen and ſhullen be pulled out of the depnes. And eueri<g ref="char:EOLunhyphen"/>body ſhal than haue his ſoule open. And that ſa<g ref="char:EOLhyphen"/>me
+<pb facs="tcp:3829:15" rendition="simple:additions"/> ſowne ſhal not bee herde allone in heuen butt alſo in erthe. And adam ſhal come fyrſt wyth alle his progenie the whiche that haue ſerued our lord Abraham ſhal come wyth alle holy patriarchen Iſay as wyth all holy prophetes. Dauid wyth all good kynges Saint peter wyth all apoſtles euan<g ref="char:EOLunhyphen"/>geliſtes and diſciples. Saint ſtephen and Saint Laurens wyth all tho that haue ſhedde there blo<g ref="char:EOLhyphen"/>de for the loue of criſt. Saint nicolaus and Marti<g ref="char:EOLunhyphen"/>mis wyth alle his confeſſours Saint katherin w<hi rend="sup">t</hi> all holy virgins Saint eliſabeth wyth alle holy &amp; ſage wymmen weduwes Saint Anna wyth all wymmen that haue not broken there wedlocke: And the quene of heuen ſhal come wyth alle rely<g ref="char:EOLhyphen"/>gious perſones the whiche that haue<g ref="char:cmbAbbrStroke">̄</g> ſerued and worſhipped her. And lyke wyſe ſhal the noyſe bee herde in helle. As Criſoſtimus ſayde. ¶ And than ſhullen comen Lucifer. Aſmodeꝭ. Sathanas. bel<g ref="char:EOLhyphen"/>ſebuck. aſtaroch. and other capiteyns. and wyth all that in helle is. And this forſayd blowyng ſhal bee herde in all corners of the worlde. ¶ And than ſhall come Cayin the whiche ſlewe his brother. &amp; ſhal goo wyth the forſayd deuyls. and alſo al mor<g ref="char:EOLhyphen"/>denars. Iudas wyth all traytours Pylatus w<hi rend="sup">t</hi> al vntrewe iewes. Herodes wyth all fals kynges &amp; princes. Barrabas wyth alle theues. Lamech w<hi rend="sup">t</hi> alle tho that haue not kepte there wedlock. Nem<g ref="char:EOLhyphen"/>roch wyth all vſerers Yezy wyth all fals mar<g ref="char:EOLunhyphen"/>chans. Symon maguo wyth alle nygromanti<g ref="char:EOLhyphen"/>ers. Athalya wyth all tho that haue kylled there
+<pb facs="tcp:3829:16"/> children Iſabel wyth all harlottls and lecherous wymmen. Like ſaint Iohan ſayde in his v. chap<g ref="char:EOLhyphen"/>tre. Procedent qui bona feceru<g ref="char:cmbAbbrStroke">̄</g>t in reſurrectio<g ref="char:cmbAbbrStroke">̄</g>em vite qui vero male egerint in reſurrecto<g ref="char:cmbAbbrStroke">̄</g>em iudicij And ye ſhal vnderſtande by y<hi rend="sup">e</hi> ſecunde donre clap Wherof that the euangeliſte ſayde. in apocalipſt. That all tho that ſhalbe to gyder in the Iugeme<g ref="char:cmbAbbrStroke">̄</g>t ſhullen bee departed in foure. The firſt company ſhullen ſytte by the Iugement of oure lorde. As oure blyſſed lady the moder of our lorde Ihu<g ref="char:cmbAbbrStroke">̄</g>. The apppoſtles. diſcipules. marters. Confeſſours. pa<g ref="char:EOLhyphen"/>triarches. and prophetes.</p>
+            <p>¶ And this ſame compasy ſhal ſtande there beſy<g ref="char:EOLunhyphen"/>de not for to gyue ſentence. But for to approbere the ſentence of oure lorde Iheſu Criſte. ¶ And in this forſayde Company. Alle tho that haue lefte there goode here in erth for the loue of oure Lorde And hauen gyuen it to the pouer folke and to the Religious people. And to tho that haue kepte the commaundement of oure lorde. Lyke matheus ſayde in his xix. chaptre.</p>
+            <q>¶ Vos qui reliquiſtis omnia et cetera.</q>
+            <p>¶ And alſo in the ſecunde company ſhullen bee in that ſame Iugement. all tho that haue ben good people. And haue alſo done ſynne and haue done penaunce therfore gladly for there ſynne. and ha<g ref="char:EOLhyphen"/>ue alſo done the workes of mercy. And oure lorde ſhal ſaye to theym. Come ye that haue done my wyl and commaundement in euerlaſting Ioye &amp; ſhal ſaye. ¶ Eſurrui &amp; dediſti mibi manducare &amp;c.
+<pb facs="tcp:3829:16"/> ¶ I haue hadde honger and you haue gyuen me mete I haue be dorſty. I haue been a pylgrym. I haue ben naked. and you haue hulpen me in alle my nede and haue ben merciful. To them ſhal ſa<g ref="char:EOLhyphen"/>ye our lorde. Comet ye in that richdome of my fa<g ref="char:EOLhyphen"/>der whiche I haue made redy for you in the begin<g ref="char:EOLunhyphen"/>nyng of the worlde ¶ The thirde company they y<hi rend="sup">t</hi> ſhullen come to Iugement ſhullen bee the badde criſte<g ref="char:cmbAbbrStroke">̄</g> people. tho that haue not kepte nor fulfylled the commaundementis of our lorde. nor the wor<g ref="char:EOLhyphen"/>kes of mercy. And our lord ſhal ſaye to theym. As matheꝭ ſayde in his xxv chaptre. ¶ Eſuriui ec no<g ref="char:cmbAbbrStroke">̄</g> dediſtis mihi ma<g ref="char:cmbAbbrStroke">̄</g>ducare &amp;c. I haue hadde hongre and ye hauen gyuen me noon mete nor drynke. &amp; I haue deſyred the goodnes of your ſoule. and ye haue cared not thinge for me. And ye haue not lo<g ref="char:EOLhyphen"/>get me nor herborwed. nor haue me take oute off pryſon. nor ye haue me not clothed. And tho that ben dampned ſhullen ſaye wee haue you not ſee<g ref="char:EOLhyphen"/>ne naked. Lyke yf they wolden ſaye we haue you not ſeene in erth. And our lorde ſhal ſaye ayen.</p>
+            <p>¶ Quod vni ex minimis feciſtis &amp;c. That ye haue giuen the leiſte or y<hi rend="sup">e</hi> loweſt of pouer people in this worlde y<hi rend="sup">t</hi> haue ye gyuen me. and that ye haue gy<g ref="char:EOLunhyphen"/>uen not / that haue ye denyed me. And therfor our lord ſhal ſaye / Gaet ye that bee dampned in that euerlaſtinge fyre of helle y<hi rend="sup">t</hi> neuer ſhal haue eynde ¶ Whe fourth company ſhulle<g ref="char:cmbAbbrStroke">̄</g> be Iewes turkes and heyden folke. the that belyue of our lorde not hauen kepte. And thyſe, company ſhullen bee gy<g ref="char:EOLhyphen"/>uen
+<pb facs="tcp:3829:17"/> to the deuyls of helle wythout of ony mercy. Wythout ony Iugement to doo ouer them. For al ſuche folcke is dampned afore they parte oute off this worlde. Lyke ſaint Ioha<g ref="char:cmbAbbrStroke">̄</g> ſayde in his iij. chap<g ref="char:EOLunhyphen"/>tre. Qui non credit iam iudicatus eſt. And as ma<g ref="char:EOLunhyphen"/>theus ſayde in his xiij chaptre. The angels ſhulle<g ref="char:cmbAbbrStroke">̄</g> gader then goode oute of they badde, and ſhullen they ſende in that burnynge furneys and fyre off helle. There euer ſhalbe wepyng and mornynge wythout eynde euermore and euerlaſtynge &amp;c.</p>
+            <p>¶ And ye maye well vnderſtande that the badde ſhullen be Iuged afore the good in the daye of Iu<g ref="char:EOLhyphen"/>gement of the rightwys Iuge oure lorde Ihu<g ref="char:cmbAbbrStroke">̄</g> xpi<g ref="char:cmbAbbrStroke">̄</g> And ſhal receyue mercyfully the good and ſhal ſa<g ref="char:EOLhyphen"/>ye to theym. Comet ye blyſſed myns faders and receyued that whiche is made redy for you in eú<g ref="char:EOLunhyphen"/>laſtynge Ioye of heuen. And as the wyſe man ſay<g ref="char:EOLunhyphen"/>de. ſoo ſhullen the badde not ſee the myrthe of our lorde. ¶ Tolletur ipſius ne vide at gloriam dei. That is to ſaye. Take aweye the badde that they not ſee the glorie of oure lorde Iheſu.</p>
+         </div>
+         <div type="tokens__n15_Signs_of_the_Passion">
+            <head>¶ And here foloweth. who that oure lorde ſhall ſhewe the blyſſed tokens of his paſſyon to theym tho that be dampned to grete payne / and to them that bee ſaued to grete myrthe and glorie.</head>
+            <pb facs="tcp:3829:40" rendition="simple:additions"/>
+            <figure>
+               <figDesc>depiction of a male figure or Jesus Christ above two groups of naked figures, one surrounded by clouds, the other by flames; in the background tokens of the Passion: crown of thorns, vinegar sponge, ladder, spitting head, and a column with ropes and whip</figDesc>
+            </figure>
+            <p>ANd by the thirde donre clap. Lyke ſaynt Iohan in Apocalipſi writted. ſhullen we vnderſtande they blyſſed tokens there paſſyon of oure lorde Ihu<g ref="char:cmbAbbrStroke">̄</g>. the whiche hy ſhal brin<g ref="char:EOLunhyphen"/>ge w<hi rend="sup">t</hi> hem to Iugement. for hy ſhal ſhewe theym to all rede ly creaturs. the y<hi rend="sup">t</hi> be ſhapen of y<hi rend="sup">e</hi> begyn<g ref="char:EOLhyphen"/>ning of y<hi rend="sup">t</hi> worlde, to y<hi rend="sup">t</hi> daye to of Iugeme<g ref="char:cmbAbbrStroke">̄</g>t. &amp; the to<g ref="char:EOLhyphen"/>kens of his paſſyon ſhullen bee brighter than the raynes of the ſonne or ſterres. And our lorde ſhal ſaye to theym tho that bee dampned.</p>
+            <pb facs="tcp:3829:41"/>
+            <p>Loke here that treſoure of my blode that whiche I haue giuen for you. Where is that ſeruice or gif<g ref="char:EOLunhyphen"/>te the whiche ye hauen gyuen me. for that coſtely treſour of my blode. And than ſhullen alle nacion of the erthe complaen ouer them ſelf. And princi<g ref="char:EOLhyphen"/>paly the turkes. Iewes and heyden folke. They ſhullen them ſelf gyue diſcomfort. for that they ha<g ref="char:EOLunhyphen"/>ue ben ayenſt oure lorde. And the fals kriſten peo<g ref="char:EOLunhyphen"/>ple ſhullen complaeyn that they haue done ſo mo<g ref="char:EOLunhyphen"/>che ylle. for they good workes the oure lorde Iheſu hath done for vs &amp;c.</p>
+            <p>¶ Who that oure lorde ſhal ſpeke to the ſynners &amp; myſdoers of his paſſien.</p>
+            <figure>
+               <figDesc>depiction of a male figure or Jesus Christ nailed to a cross; below a birch and whip, two hands and two feet with nail wounds, a spear or lance entering a heart, a crown of thorns, and three nails</figDesc>
+            </figure>
+            <pb facs="tcp:3829:17" rendition="simple:additions"/>
+            <p>
+               <seg rend="decorInit">A</seg>Nd alſo in that daye of Iugement ſhall oure lorde ſaye to them tho that be dam<g ref="char:EOLunhyphen"/>pned. Loke here that body that whiche ye haue putte on the Croſſe. Loke here youre Iu<g ref="char:EOLhyphen"/>ge the whiche is god and menſhe ¶ Loke here the wondes the whiche ye haue made hem. loke here the ſyde the whiche ye haue wonded and dore paſ<g ref="char:EOLunhyphen"/>ſed wyth aſpere. loke here my handes the whiche bee thorugh nayled for your ſake on the croſſe. the whiche I haue put oute for to receyue you. hadde it pleſed you. And for that caſe that ye haue cared not for my. And I haue called and cryed after you and ye haue ſette not thinge be me. Therfore goo ye in that euerlaſting fyre wyth the deuyls of hel<g ref="char:EOLhyphen"/>le wyth all thir company. For one good body ſhal hem haſte for to doo penaunce the whyle that hy is alyue. for that hy maye bee bocht wyth that tre<g ref="char:EOLunhyphen"/>ſour his blots. And ſo that we not be of y<hi rend="sup">e</hi> iiij. com<g ref="char:EOLhyphen"/>pany of Iugement. tho that bee dampnad.</p>
+            <div n="1" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a column with ropes</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <seg rend="decorInit">A</seg>T the fyrſt ſo ſhal oure lorde ſhe<g ref="char:EOLhyphen"/>we the Colu<g ref="char:cmbAbbrStroke">̄</g>me to all them that haue not bee mercyfully. ther hi ſo pleniuoſly ſhedde his bloode. wherof y<hi rend="sup">t</hi> we ſhullen thanke our lorde. Lyke ambro<g ref="char:EOLunhyphen"/>ſius ſayd. Plus enim debio tuis iniurijs ¶ O good lorde I am more bou<g ref="char:cmbAbbrStroke">̄</g>den to the for thy bitter paſſyon the thou ſuffredeſt for me and all mankinde. and ther thorugh I am bought. than I am bou<g ref="char:cmbAbbrStroke">̄</g>de to y<hi rend="sup">e</hi> might of almighty
+<pb facs="tcp:3829:18"/> for to be made and ſhapen ſholde not haue profy<g ref="char:EOLhyphen"/>ted. hadde I not bee bought. As Bernardus ſayd There is noothinge ſoo profytelyck for to hele the woundes of the ſoule than many tymes to reme<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>bre the paſſyon of oure lorde.</p>
+            </div>
+            <div n="2" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a crown of thorns</figDesc>
+                  </figure>
+               </p>
+               <p>¶ Atte the ſecunde tyme ſhal oure lorde ſhewe his precyous Crowne of thorne the hy bare vpon his hedde. to theym y<hi rend="sup">t</hi> haue bee prowde. And haue ſette vpon ther hedde that whiche they haue pleſed the worl<g ref="char:EOLunhyphen"/>de and haue cared nott thynge of hym nor of the crowne the whiche hi bare vpon his hedde for our ſake.</p>
+            </div>
+            <div n="3" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a lance or spear piercing a heart</figDesc>
+                  </figure>
+               </p>
+               <p>¶ Att the thyrde tyme ſoo ſhal oure lorde ſhewe the lancie of his paſſie to them that haue bee angry and haue not loued there euyn criſten menſhe<g ref="char:cmbAbbrStroke">̄</g>. and haue hadde ple<g ref="char:EOLhyphen"/>ſur of their myſfortune. Of this ſayde Se<g ref="char:EOLunhyphen"/>neca. I wolde that they hatyge menſhen hadden eyen for to ſee in all corners of the worlde. For that the lancie of hating them ſelf ſholde thorugh ſtyke or wonde of all holſamhz and of al his fortune. that they haue ſeen that the menſhen hadden For the hatyge people hath alſo moche payne of the people that haue fortu<g ref="char:cmbAbbrStroke">̄</g>ne. As hy hath pleaſure of the myſfortunyge menſhen.</p>
+            </div>
+            <div n="4" type="token">
+               <pb facs="tcp:3829:18"/>
+               <p>
+                  <figure>
+                     <figDesc>depiction of two hands with nails in the palms</figDesc>
+                  </figure>
+               </p>
+               <p>¶ At forthe tyme ſhall oure lorde ſhewe they nayles of his handes. to theym y<hi rend="sup">t</hi> haue be couetous. tho that neuer bee ſa<g ref="char:EOLunhyphen"/>tyſfyed. To them ſayde the apoſtle. Ha<g ref="char:EOLhyphen"/>bentes alimenta &amp;c. ¶ Haue wee mete and clothynge. late vs be conten &amp;c.</p>
+            </div>
+            <div n="5" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of two feat with a nail through them</figDesc>
+                  </figure>
+               </p>
+               <p>At the fyfte ſhal our lord ſhewe the nay<g ref="char:EOLhyphen"/>les of his fete to them that haue hadd gre<g ref="char:EOLunhyphen"/>te pleaſure in daunſyng and haue hadde more pleaſure to that than to remembre the paſſyon of our lorde. And therfore the deuyl ſhal daunce wyth them in helle.</p>
+            </div>
+            <div n="6" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of an angel holding a cross</figDesc>
+                  </figure>
+               </p>
+               <p>ANd at the ſyxte ty<g ref="char:EOLhyphen"/>me ſhal hi ſhewe y<hi rend="sup">t</hi> glorious Croſſe to them y<hi rend="sup">t</hi> haue not be pacient in this worlde. &amp; haue wol<g ref="char:EOLhyphen"/>de not ſuffre nothinge fore the loue of our lorde. Gre<g ref="char:EOLhyphen"/>gorius ſayde to them ¶ Si illic dulcia appetiꝭ nece<g ref="char:cmbAbbrStroke">̄</g> e<g ref="char:cmbAbbrStroke">̄</g> vt hic amara tollereꝭe. Deſire we y<hi rend="sup">e</hi> ſwetenes of y<hi rend="sup">t</hi> paradis Than is it of nede that wee haue bitternes in this worlde</p>
+            </div>
+            <div n="7" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a birch and a multi-tongued whip</figDesc>
+                  </figure>
+               </p>
+               <p>¶ At the vij. tyme ſhal oure lorde ſhewe the rodde &amp; the ſhorge. to them y<hi rend="sup">t</hi> haue be Lecherous. there wyth hy was ſhorged and beten. ¶ The whiche Lecherous
+<pb facs="tcp:3829:19"/> haue waſted that good of there ſoule. &amp; haue ſhor<g ref="char:EOLhyphen"/>ted there lyf wythout chaſtyſing of there bodyes. And for to amende their lyuing.</p>
+            </div>
+            <div n="8" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a gown or garment</figDesc>
+                  </figure>
+               </p>
+               <p>¶ And att viij tyme ſhal oure lorde ſhewe his gowne of purperen the<g ref="char:EOLhyphen"/>re hem pylatus wyth clothed. And that whitte gowne there hem He<g ref="char:EOLhyphen"/>rodes wyth clothed for to mocke hy<g ref="char:cmbAbbrStroke">̄</g> And this ſhal hy ſhewe to theym that haue be prowde in thir clothi<g ref="char:cmbAbbrStroke">̄</g>g in this worlde w<hi rend="sup">t</hi> coſtely furres and alſo longe tayles on ther gowne haue the wyme<g ref="char:cmbAbbrStroke">̄</g> and alſo wydeſleues haue they men Alſo one pul<g ref="char:EOLunhyphen"/>led that other to euyl thoughtes the whiche haue this in ſyght. Lyke Criſoſtomꝭ ſayd. all thoſe that areye them. for to pulle one y<hi rend="sup">t</hi> other to ſynne ſhulle<g ref="char:cmbAbbrStroke">̄</g> receyue that euerlaſtyng Iugement. for they ſyn<g ref="char:EOLhyphen"/>ned gretely in our lord Ihu<g ref="char:cmbAbbrStroke">̄</g>.</p>
+            </div>
+            <div n="9" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of the head of a male figure or Jesus Christ, blindfolded</figDesc>
+                  </figure>
+               </p>
+               <p>That ix. token ſhal oure lorde ſhewe to all theym that ther good falſely ſel<g ref="char:EOLhyphen"/>le. as fals marchau<g ref="char:cmbAbbrStroke">̄</g>tes and begyelrs they that there good ſoo falſely ſelle in this worlde. That cloth ther his blyſ<g ref="char:EOLhyphen"/>ed viſage wyth was bounde &amp; blynd fyldeth. And tho they beten hym on his necke. &amp; aſked in mockyng who hath done that &amp;c. And in this maner ye blynfyldeth oure lorde. And ſelle your good wyth grete othes and ſwering falſely
+<pb facs="tcp:3829:19" rendition="simple:additions"/> and hy is ſyeng and knowyng all thynge.</p>
+            </div>
+            <div n="10" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of rope</figDesc>
+                  </figure>
+               </p>
+               <p>That x. token ſhal hy ſhewe the cordes the<g ref="char:EOLhyphen"/>re wyh his blyſſed handes, and armes whe<g ref="char:EOLunhyphen"/>re bosnden and tyed. to alle theym that gy<g ref="char:EOLhyphen"/>ue theym ſelf and pulle other peple to ſynne to lecherouſnes and fleſly luſte.</p>
+            </div>
+            <div n="11" type="token">
+               <p>THat xi. token of his paſſyon ſhall hy ſhewe he galle and vinegre that they hem gaue on the croſſe. to them that haue mothe eten &amp; dron<g ref="char:EOLunhyphen"/>ken. and in eſpecially to they dronkarts. ¶ Lyke raint Lucas ſayde in his vi. chaptre. ¶ Ve vobis qui ſaturati eſtis. Wherof ſaint Iheronimus ſay<g ref="char:EOLhyphen"/>de. It is impoſſybly to fulfylle theym that neuer haue ynowe nor ther belly neuer full in this worl<g ref="char:EOLunhyphen"/>de. And there ſoule to bee mery in paradys.</p>
+               <p>¶ And ſaint Bernard ſayde alſo. So why in this worlde is fulfylled of fleſhely luſt. is not ſhorthy to bee ſpyſt of gooſtely mete of heuen. And Ambroſi<g ref="char:EOLhyphen"/>us ſayde. That they dronkarts hurte there natur and leſe the grace of god and the glorie of heuen. &amp; to gete the euerlaſtinge dampnacion.</p>
+            </div>
+            <div n="12" type="token">
+               <pb facs="tcp:3829:20"/>
+               <p>
+                  <figure>
+                     <figDesc>depiction of the head of a male figure, spitting</figDesc>
+                  </figure>
+               </p>
+               <p>THat xij. token ſhal oure lorde ſhe<g ref="char:EOLunhyphen"/>we that ſpeckſel that thei Iewes ſpitted in his bliſſed face. And that ſhal hy ſhewe to theym that haue blanket<g ref="char:EOLunhyphen"/>ted them. and haue them made fayrer. than god them hath made. There of ſayth ſaint Ambroſiꝭ ¶ Deles picturam dei ſi vultu<g ref="char:cmbAbbrStroke">̄</g> tuu<g ref="char:cmbAbbrStroke">̄</g> naturali cando<g ref="char:EOLunhyphen"/>re obnubilas et exquiſito rubore ꝓfundis &amp;c.</p>
+            </div>
+            <div n="13" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a hand holding a lock of hair</figDesc>
+                  </figure>
+               </p>
+               <p>¶ That xiij. token ſhal oure lorde ſhewe his here and berde that whiche the fals Iewes hem pulled oute in his paſſyon. To them that there here haue coloured and made it crouſe. and they wymen their hedde haue diſcouered for there wyth they men to pulle to ſynne &amp;c.</p>
+            </div>
+            <div n="14" type="token">
+               <p>
+                  <figure>
+                     <figDesc>depiction of three dice</figDesc>
+                  </figure>
+               </p>
+               <p>¶ That xiiij token ſhal oure lorde Iheſu ſhewe they deſe to the dobbelers or dees players. tho that haue played for lucre &amp; couetous. and not for pleaſure. For couetous is in hem ſelf a deth ſynne. Therfore ſuche playe ye ma<g ref="char:EOLunhyphen"/>ye not doo wythout ſynne. And alle ſuche goten good may ye not kepe but tourne it ayen to them that it oweth.</p>
+            </div>
+            <div n="15" type="token">
+               <figure>
+                  <figDesc>depiction of a purse of money</figDesc>
+               </figure>
+               <p>THat xv. token and that laſte ſhall oure lorde ſhewe the money there wyth hy was ſolde and bought. And y<hi rend="sup">t</hi> ſhall hy ſhewe to theym that haue bee vſurers and haue done none reſtitucie nor gyuen
+<pb facs="tcp:3829:20"/> it ayen. ¶ O good lorde what ſhal ſaye ſuche people at the dreful daye of Iugement.</p>
+               <p>For Iudas gaue ayen they xxx. pens ther hy our lorde Iheſu for ſolde. thorugh couetous. Lyke mo<g ref="char:EOLhyphen"/>dyners theues vſurers and robbers. tho that ha<g ref="char:EOLhyphen"/>ue other mennes good knowing wythout gyui<g ref="char:cmbAbbrStroke">̄</g>g ayen. Here of maye ye ſee in that Decret. Vſura<g ref="char:EOLhyphen"/>rius non vere penitet niſi prius vſuras reſtituat The vſurer maye doo none very penaunce. For that hy hath gyuen ayen y<hi rend="sup">t</hi> whiche hy hath goten ther wyth. ¶ The cauſe is. For ſaint Auguſtinus ſayde. For certayn in his comun regel or orden.</p>
+               <p>¶ Peccatum non dimittitur. &amp;c. The ſynnes ma<g ref="char:EOLhyphen"/>ye not ben forgyuen afore that that wronful good bee gyuen ayen to theym that it is owyng.</p>
+               <trailer>¶ Here endeth this lytill treatyſe that whiche is called the xv tokens whiche been late tranſlated oute of frenſhe in to Engliſhe. The whiche been very neceſſary to euery man and woman to kno<g ref="char:EOLunhyphen"/>we them. And to remembre the dreful daye of Iu<g ref="char:EOLhyphen"/>gement there wee all ſhullen comen to. And alſo the paſſyon of oure lorde Ihu<g ref="char:cmbAbbrStroke">̄</g> xpi that the not bee loſte on vs and maye vs come to ſtede in our mo<g ref="char:EOLhyphen"/>ſte nede. And that hy maye brynge me and you all in euerlaſting and perpetual Ioye Amen.</trailer>
+            </div>
+         </div>
+         <div type="devotional_exercises">
+            <pb facs="tcp:3829:21"/>
+            <head>
+               <figure>
+                  <figDesc>depiction of the Madonna and Child, or Mary and Jesus Christ, with a kneeling male figure or monk</figDesc>
+               </figure> ¶ And here foloweth the nombre of the fote ſtap<g ref="char:EOLhyphen"/>pes of oure lorde the whiche hy wente in his paſſi<g ref="char:EOLunhyphen"/>on and alſo other deuote maters. And yf ther bee ony perſon that wolde ſaye it were not autentic. Lete hem therfore not bee trobbled in his mynde. for it hath hondred tymes bee more and gretter than men there of can writte &amp;c.</head>
+            <p>ANd alſo that wee maye gete after this ſa<g ref="char:EOLhyphen"/>me lyf a mercyful Iugeme<g ref="char:cmbAbbrStroke">̄</g>t. and that we maye eſcape that dretful wort. go ye that bee curſed of the month of oure lorde &amp;c.</p>
+            <p>So is no thing better there ayenſt than too recey<g ref="char:EOLunhyphen"/>ue y<hi rend="sup">e</hi> paſſyon of our lorde Iheſu Criſte. As bernar<g ref="char:EOLunhyphen"/>dus ſayde. O ye menſhen remembre the paſſyon of our lorde in your mynde. For yf ye deyed in the</p>
+            <gap reason="missing" resp="#OXF" extent="1+ pages">
+               <desc>〈1… pages missing〉</desc>
+            </gap>
+            <pb facs="tcp:3829:46" rendition="simple:additions"/>
+            <p>tuoſly that it was pyte to ſee &amp;c.</p>
+            <figure>
+               <figDesc>depiction of a male figure or Jesus Christ being guarded by a group, while a seated male figure washes his hands</figDesc>
+            </figure>
+            <p>¶ Item there fore ſteppes they oure lorde wente fro an<g ref="char:EOLunhyphen"/>nas houſe to Cay<g ref="char:EOLhyphen"/>phas houſe. there was C. and xxx. &amp; betwine the waye ſoo mocked they Ie<g ref="char:EOLunhyphen"/>wes our lorde. xxx. tymes in his blyſſed face. and gauen hem. xl. gre<g ref="char:EOLhyphen"/>te ſtrokes in his necke. And they fals Iewes axed oure lorde in Cayphas hous yf hy were the ſonne of godde and hy ſayde ye ¶ And in continent they gaue Iugement ouer hem that hy was worthy to deye. &amp; do they mocked he<g ref="char:cmbAbbrStroke">̄</g> at ſecu<g ref="char:cmbAbbrStroke">̄</g>de tyme in his viſage xlij. tymes. and gauen hem alſo xl. greate ſtrokes in his necke the ſecunde tyme. ¶ And alſo there wenten they Iewes in Cayphas hous too gyder. they ſcryben and pharyſeen and accorded to gyder who that they wolde deye oure lorde ihu<g ref="char:cmbAbbrStroke">̄</g> And there was lxvi. of one counſeyll of they grea<g ref="char:EOLunhyphen"/>teſt. in that ſame nyght.</p>
+            <pb facs="tcp:3829:47"/>
+            <p>¶ Item hondred and lxxx. ſores hadde oure lorde y<hi rend="sup">e</hi> whiche hy ſuffcedeth ſpecially in the tyme of hys paſſyon &amp;c.</p>
+            <div type="part">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a semi-naked male figure or Jesus Christ bound to a column while two male figures beat him with a birch and a whip; in the background other figures look in at the window</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <seg rend="decorInit">A</seg>Nd alſo in y<hi rend="sup">e</hi> morni<g ref="char:cmbAbbrStroke">̄</g>g erly brogh<g ref="char:EOLunhyphen"/>ten the Iewes oure lorde wyth CCCC. ſeruauntes in pyla<g ref="char:EOLunhyphen"/>tus houſe. and ther fote ſteppes waſ M And Pylatus ſende oure lorde to He ro<g ref="char:EOLhyphen"/>des houſe. and there fote ſteppes was. C. and. l. And pylatus wolde pleaſe the Iewes and badde y<hi rend="sup">t</hi> they ſholde ſhurge hem. for to content ther fals Ie<g ref="char:EOLunhyphen"/>wes wyl. And oure lorde Iheſu receyued there vi. C. ſtrokes. and alſo they woundes they oure lorde there toke they were not well nommerably.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a seated male figure or Jesus Christ, robed, with wrists bound, wearing a crown of thorns which two male figures press into him with a pole</figDesc>
+                  </figure>
+               </p>
+               <p>¶ Item the cro<g ref="char:EOLunhyphen"/>wne y<hi rend="sup">e</hi> our lord was put vpon his blyſſed hed hadde lxxij. tac<g ref="char:EOLhyphen"/>kes and the tac<g ref="char:EOLunhyphen"/>kes haue been forſquer. and y<hi rend="sup">e</hi> tackes wente i<g ref="char:cmbAbbrStroke">̄</g>
+                  <g ref="char:EOLhyphen"/>to his Blyſſed
+<pb facs="tcp:3829:47" rendition="simple:additions"/> hedde. and the Crowne was putte twyes vpon his hedde. So our lorde receyued many wou<g ref="char:cmbAbbrStroke">̄</g>des for our ſake. And there wondes they our lord ther receyued of the crowne haue ben onno<g ref="char:cmbAbbrStroke">̄</g>merably. Alſp yf there bee ony y<hi rend="sup">t</hi> wyl worſhippe thyſe won<g ref="char:EOLhyphen"/>des. the ſhal ſaye euery daye xv. pater noſter a ye<g ref="char:EOLhyphen"/>re longe &amp;c.</p>
+            </div>
+            <div type="part">
+               <p>
+                  <figure>
+                     <figDesc>depiction of a male figure or Jesus Christ dragging a large cross, helped by another male figure or Simon or Cyrene; around them other figures including two soldiers and two female figures</figDesc>
+                  </figure>
+               </p>
+               <p>
+                  <seg rend="decorInit">A</seg>Lſo oure lorde was beten xxx. tymes doo hy bare his Croſſe. And oure lorde felle done to y<hi rend="sup">e</hi> grou<g ref="char:cmbAbbrStroke">̄</g>de v. tymes wyth his croſ<g ref="char:EOLunhyphen"/>ſe vpon his ſholder. And fro Iheruſalem to the hil<g ref="char:EOLunhyphen"/>le of caluarye there fote ſteppes was lxxij. Ite<g ref="char:cmbAbbrStroke">̄</g> fro the hylle benethe to aboue hath ben fote ſteppes. M. Item the largenes aboue vpon the hylle thee oure lorde was crucifyed haue ben xl. fote ſteppes ¶ Item doo oure lorde was nayled on that Croſſe an bode handes haue ben xl. ſtrokes wyth the / ha<g ref="char:EOLunhyphen"/>mer &amp;c. / And tho token the fals Iewes a rope ma<g ref="char:EOLhyphen"/>de of here and pulled his fete to the hole of the croſ<g ref="char:EOLhyphen"/>ſe for it was made to longe. for his fete myght not reche it. and tho they nayled hem his fete / &amp; there
+<pb facs="tcp:3829:48"/> ſtrokes haue been lxxxliij &amp;c.</p>
+            </div>
+            <div type="part">
+               <figure>
+                  <figDesc>depiction of the crucifixion; a male figure or Jesus Christ nailed to a cross; a male figure is tied to another cross on either side; below, four soldiers including one on horseback and one piercing his heart with a lance or spear; nearby, four haloed figures, including a male figure or John the Baptist and a female figure or Mary</figDesc>
+               </figure>
+               <p>
+                  <seg rend="decorInit">A</seg>Lſo oure Lorde was hangynge on that Croſſe iij. houres alyue and. iij. houres deed. and alſo. l. teeres wepte oure lorde on that croſſe. and hondre<g ref="char:EOLunhyphen"/>d fote ſteppes was oure lorde boren fro the croſſe to his ſepulture or graue ¶ After that ſame tyme that oure lorde was aro<g ref="char:EOLhyphen"/>ſen out of his graue. was hy in erth xl. dayes. Al<g ref="char:EOLhyphen"/>ſo yf there bee ony man or woman that wyl wor<g ref="char:EOLhyphen"/>ſhyppe they bloddroppes of oure lorde Ihu<g ref="char:cmbAbbrStroke">̄</g> y<hi rend="sup">e</hi> whi
+<pb facs="tcp:3829:21" rendition="simple:additions"/> che he hath ſpyldeth for vs here in erth. wyth one pater noſter. for hy moſte ſaye euery daye an hoo<g ref="char:EOLunhyphen"/>le yere longe C. pater noſter. and than ſholde bee worſhypped euery droppel blots wyth one pater noſter. Alſo they that wolde do this hy ſhall haue of oure lorde a ſpecial grace. And yf ther were ony man or woman that hadde begonne this. and de<g ref="char:EOLhyphen"/>yed in the fyrſt yere he ſholde bee waged of the ho<g ref="char:EOLunhyphen"/>le tyme of xv. yere &amp;c.</p>
+               <p>¶ Our lorde Iheſus do hy was croſcifyed had hy his blyſſed vyſage to vs weſtward. Therfore tor<g ref="char:EOLhyphen"/>ne we our viſage eſtward whan we doo praye to oure lorde hanging on the croſſe.</p>
+               <p>¶ As oure lorde Iheſus criſtꝭ wente to heuen had hy his blyſſed vyſage eſtward. and prayed his fa<g ref="char:EOLhyphen"/>der of heuen for vs. and therfore praye we alſo in that eſte. And therfor late vs praye eſtward that hy wyl gyue vs after this wretched lyf euerlaſti<g ref="char:cmbAbbrStroke">̄</g>g lyff Amen.</p>
+            </div>
+         </div>
+         <div type="colophon">
+            <p>¶ Emprinted by me Iohan fro doeſborch dwelli<g ref="char:cmbAbbrStroke">̄</g>
+               <g ref="char:EOLhyphen"/>ge at Anwerpe by the Iron ballaunce &amp;c.</p>
+            <pb facs="tcp:3829:22"/>
+            <p>
+               <figure>
+                  <figDesc>printer's device of Jan van Doesborch (?), featuring an armoured male figure or soldier holding a sword and blowing a horn; to his left hangs an escutcheon featuring a castle; to his right hangs a blank escutcheon; behind his feet a blank scroll</figDesc>
+               </figure>
+            </p>
+         </div>
+         <div type="duplicate_images">
+            <pb facs="tcp:3829:22"/>
+            <pb facs="tcp:3829:23" rendition="simple:additions"/>
+            <p>
+               <pb facs="tcp:3829:23" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:24"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:24" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:25"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:25"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:26"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:26"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:27"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:27"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:28"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:28" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:29"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:29" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:30"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:30" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:31"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:31" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:32"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:32" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:33" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:33" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:34"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:34" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:35"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:37" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:38"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:38" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:39"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:39" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:40"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:41" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:42"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:42" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:43"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:43" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:44"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:44" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:45"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:45" rendition="simple:additions"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:46"/>
+               <gap reason="duplicate" resp="#OXF" extent="1 page">
+                  <desc>〈1 page duplicate〉</desc>
+               </gap>
+               <pb facs="tcp:3829:48" rendition="simple:additions"/>
+            </p>
+         </div>
+      </body>
+   </text>
+</TEI>
